@@ -33,8 +33,12 @@ A simple and responsive **Currency Converter** web app built using **HTML**, **C
 ---
 
 ## 🧾 Files Included
-<pre> ```bash currency-converter/ ├── index.html # Main UI ├── style.css # Styling & layout ├── app.js # JS logic + API calls ├── codes.js # Currency-to-country code map ├── README.md # Project info ``` </pre>
-
+currency-converter/
+├── index.html # Main UI
+├── style.css # Styling & layout
+├── app.js # JS logic + API calls
+├── codes.js # Currency-to-country code map
+├── README.md # Project info
 
 ---
 
